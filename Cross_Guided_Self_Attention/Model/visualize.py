@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2019/3/7 23:46
-# @Author  : Haoyi Fan
-# @Email   : isfanhy@gmail.com
-# @File    : visualize.py
-
-# coding: utf-8
 import matplotlib
 import torch
 
