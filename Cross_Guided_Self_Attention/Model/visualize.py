@@ -77,8 +77,6 @@ for KNN in KNNs:
     #                             "{}_KNN{}_K{}_v0.0_l1{}_l2{}_l3{}/{}".format(dataset, KNN, K, l1, l2, l3, nb_exp)])
     vis_dir = './figure'
 
-    # for t in [37000, 38000, 40000, 42000]:
-
     for epoch in EPOCHS:
         fig_name = '{}_{}_embeddings'.format(model_name,dataset)
         #[:t]
